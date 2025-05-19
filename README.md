@@ -1,1 +1,1 @@
-# Amazon.com
+amazon clone
